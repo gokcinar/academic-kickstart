@@ -14,8 +14,8 @@ role: Research Engineer II
 
 # Organizations/Affiliations
 organizations:
-- name: Aerospace Systems Design Laboratory at Georgia Institute of Technology
-  url: "https://www.asdl.gatech.edu/"
+- name: Georgia Institute of Technology
+  url: "https://www.gatech.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My main research interests include hybrid electric aircraft architectures, subsystem modeling and integration, and power management optimization.
@@ -45,15 +45,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GokcinCinar
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/gokcin-cinar/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=KIbLE10AAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/gokcin-cinar/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GokcinCinar
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Hi there! My name is Gökçin Çınar, or Gokcin Cinar to the non-Turkish speaking world. I work as a Research Engineer II at [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/) (ASDL) at **Georgia** Institute of **Tech**nology.
+Hi there! My name is Gökçin Çınar, or Gokcin Cinar to the non-Turkish speaking world. I work as a Research Engineer II at [Aerospace Systems Design Laboratory](url: "https://www.asdl.gatech.edu/") (ASDL) at **Georgia** Institute of **Tech**nology.
 
 My main research interests include hybrid electric aircraft architectures, subsystem modeling and integration, and power management optimization. Since 2012, I've been involved in a range of projects including but not limited to future aircraft technologies, green aviation, electrified aircraft and its propulsion subsystems, thermal management systems, and model-based systems engineering.
 
