@@ -40,7 +40,7 @@ image_parallax = false # Use a fun parallax-like fixed background effect? true/f
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["30px", "0", "30px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -48,4 +48,5 @@ image_parallax = false # Use a fun parallax-like fixed background effect? true/f
 
  # CSS class.
  css_class = ""
+
 +++
