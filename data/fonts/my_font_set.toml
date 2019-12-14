@@ -1,11 +1,11 @@
 # Font style metadata
-name = "Minimal"
+name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+google_fonts = "Baskervville|Courier+Prime|Playfair+Display"
 
 # Font families
-heading_font = "Gelasio"
+heading_font = "Playfair Display"
 body_font = "Courier Prime"
 nav_font = "Courier Prime"
-mono_font = "Roboto Mono"
+mono_font = "Baskervville"
