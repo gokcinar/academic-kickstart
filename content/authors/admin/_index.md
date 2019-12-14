@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Gokcin Cinar
+name: Gokcin Cinar, PhD
 
 # Username (this should match the folder name)
 authors:
