@@ -21,9 +21,11 @@ organizations:
 bio: My main research interests include hybrid electric aircraft architectures, subsystem modeling and integration, and power management optimization.
 
 interests:
-- Systems Architecting, Design, Integration and Power Management Optimization for Electrified Aircraft
-- Modeling and Simulation
-- Model-based Systems Engineering
+- Electrified Aircraft and Propulsion Systems
+- Aerospace Systems Architecting, Design and Integration
+- Power Management Optimization 
+#- Modeling and Simulation
+#- Model-based Systems Engineering
 
 education:
   courses:
@@ -48,12 +50,18 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=KIbLE10AAAAJ&hl=en
-- icon: linkedin
+- icon: youtube
   icon_pack: fab
-  link: https://www.linkedin.com/in/gokcin-cinar/
+  link: https://www.youtube.com/c/BizSizOnlar
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/gok.cinar
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GokcinCinar
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/gok.cinar
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
