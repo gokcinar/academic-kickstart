@@ -21,9 +21,9 @@ organizations:
 bio: My main research interests include hybrid electric aircraft architectures, subsystem modeling and integration, and power management optimization.
 
 interests:
-- Electrified Aircraft
-- Electrified Propulsion Architectures
-- System Modeling and Integration
+- Systems Architecting, Design, Integration and Power Management Optimization for Electrified Aircraft
+- Modeling and Simulation
+- Model-based Systems Engineering
 
 education:
   courses:
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Hi there! My name is Gökçin Çınar, or Gokcin Cinar to the non-Turkish speaking world. I work as a Research Engineer II at [Aerospace Systems Design Laboratory](url: "https://www.asdl.gatech.edu/") (ASDL) at **Georgia** Institute of **Tech**nology.
+Hi there! My name is Gökçin Çınar, or Gokcin Cinar to the non-Turkish speaking world. I work as a Research Engineer II at [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/) (ASDL) at **Georgia** Institute of **Tech**nology.
 
 My main research interests include hybrid electric aircraft architectures, subsystem modeling and integration, and power management optimization. Since 2012, I've been involved in a range of projects including but not limited to future aircraft technologies, green aviation, electrified aircraft and its propulsion subsystems, thermal management systems, and model-based systems engineering.
 
