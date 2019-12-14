@@ -39,6 +39,7 @@ image_parallax = false # Use a fun parallax-like fixed background effect? true/f
   text_color_light = true
 
 [design.spacing]
+
   # Customize the section spacing. Order is top, right, bottom, left.
 padding = ["100px", "0", "200px", "0"]
 
@@ -48,5 +49,11 @@ padding = ["100px", "0", "200px", "0"]
 
  # CSS class.
  css_class = ""
+
+<font size="-0.5">
+
+Engineer of Aerospace. <br>Creator of YouTube videos.<br>Lover of science and technology.<br>Proponent of gender equality.<br><s>Mother of Dragons.</s>
+
+</font>
 
 +++
