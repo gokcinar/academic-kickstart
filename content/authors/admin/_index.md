@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Hi there! My name is Gökçin Çınar, or Gokcin Cinar to the non-Turkish speaking world. I work as a Research Engineer II at Aerospace Systems Design Laboratory (ASDL) at **Georgia** Institute of **Tech**nology.
+Hi there! My name is Gökçin Çınar, or Gokcin Cinar to the non-Turkish speaking world. I work as a Research Engineer II at [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/) (ASDL) at **Georgia** Institute of **Tech**nology.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
