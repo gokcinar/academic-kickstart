@@ -14,16 +14,15 @@ role: Research Engineer II
 
 # Organizations/Affiliations
 organizations:
-- name: Aerospace Systems Design Laboratory at Georgia Institute of Technology
-  url: "https://www.asdl.gatech.edu/"
+- name: Georgia Institute of Technology
+  url: "https://www.gatech.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main research interests include hybrid electric aircraft architectures, subsystem modeling and integration, and power management optimization.
+bio: My main research interests include hybrid electric aircraft architectures, propulsion subsystem modeling and integration, and power management optimization.
 
 interests:
-- Electrified Aircraft
-- Electrified Propulsion Architectures
-- System Modeling and Integration
+- Systems Architecting, Design, Integration and Power Management Optimization for Electrified Aircraft
+- Modeling and Simulation
 
 education:
   courses:
@@ -45,15 +44,17 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GokcinCinar
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/gokcin-cinar/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=KIbLE10AAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/gokcin-cinar/- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GokcinCinar
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/gok.cinar/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,10 +67,18 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+#   - Researchers
+#   - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there! My name is Gökçin Çınar, or Gokcin Cinar to the non-Turkish speaking world. I work as a Research Engineer II at [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/) (ASDL) at **Georgia** Institute of **Tech**nology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My main research interests include hybrid electric aircraft architectures, subsystem modeling and integration, and power management optimization. Since 2012, I've been involved in a range of projects including but not limited to future aircraft technologies, green aviation, electrified aircraft and its propulsion subsystems, thermal management systems, and model-based systems engineering.
+
+As a research engineer at ASDL, I lead or work with multi-disciplinary groups to conduct fundamental research funded by various sponsors from the industry and government. I advise graduate students on their projects and theses. As someone who likes to add their own touch to their "habitat", I also kick-started or rekindled some projects at ASDL that were not necessarily in my job definition. I manage [ASDL's website](https://www.asdl.gatech.edu/) and social media accounts on [Twitter](https://twitter.com/asdl_gatech), [Instagram ](https://www.instagram.com/asdl_gatech/)and [LinkedIn](https://www.linkedin.com/groups/2407/). I rekindled the [ASDL publication repository](https://smartech.gatech.edu/handle/1853/6027) on Georgia Tech's open-access publication repository, SMARTech, where you can find the many research papers and dissertations published by ASDL over the years. I started the ASDL Knowledge Sharing Project which provides a platform for researchers to share their experience, codes, tools, documents, or Q&A's.
+
+I received my Master's and Ph.D. degrees in Aerospace Engineering from Georgia Tech in 2015 and 2018, respectively. I earned my Bachelor's degree in Aerospace Engineering from Middle East Technical University in Ankara, Turkey in 2012.
+
+I am a member of the American Institute of Aeronautics and Astronautics (AIAA). Within AIAA, I am a member of the Energy Optimized Aircraft Systems Integration Committee and the Aircraft Electrified Propulsion and Power Working Group. I am also involved in the organizing committee for AIAA/IEEE Electric Aircraft Technologies Symposium in 2020.
+
+Back in 2016, I started a [YouTube channel](http://youtube.com/BizsizOnlar) (currently it's only in Turkish) to promote STEM and gender equality in STEM. Together with my husband, Efe Yamac Yarbasi, we shoot fun videos about interesting research we read in scientific articles, our own experience in academia, and various other topics related to STEM. One of my favorite free-time activities (that is, the limited amount of time that I allow myself to call free) is to interact with our young followers who want to be an aerospace engineer or in the process of making one!
