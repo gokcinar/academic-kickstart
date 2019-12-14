@@ -43,8 +43,3 @@ image_parallax = false # Use a fun parallax-like fixed background effect? true/f
   padding = ["10px", "0", "10px", "0"]
 
 [advanced]
- # Custom CSS. 
- css_style = ""
-
- # CSS class.
- css_class = ""
