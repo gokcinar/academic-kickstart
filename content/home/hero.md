@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "Gökçin Çınar"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "concorde_engine.png"
@@ -25,7 +25,7 @@ title = "Academic"
 
   # Background image.
 image = "concorde_engine.png"  # Name of image in `static/img/`.
-image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
 image_position = "center"  # Options include `left`, `center` (default), or `right`.
 image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -53,14 +53,6 @@ image_parallax = true  # Use a fun parallax-like fixed background effect? true/f
 
 <font size="-1">
 
-Engineer of Aerospace.
-
-Creator of YouTube videos.
-
-Lover of science and technology.
-
-Proponent of gender equality.
-
-<s>Mother of Dragons.</s>
+Engineer of Aerospace. <br>Creator of YouTube videos.<br>Lover of science and technology.<br>Proponent of gender equality.<br><s>Mother of Dragons.</s>
 
 </font>
