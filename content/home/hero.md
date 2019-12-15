@@ -55,8 +55,8 @@ padding = ["100px", "0", "500px", "0"]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-<font size="-0.1">
+# <font size="-0.5">
 
 Engineer of Aerospace. <br>Creator of YouTube videos.<br>Lover of science and technology.<br>Proponent of gender equality.<br><s>Mother of Dragons.</s>
 
-</font>
+# </font>
