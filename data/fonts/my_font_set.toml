@@ -6,6 +6,6 @@ google_fonts = "Baskervville|Courier+Prime|Playfair+Display"
 
 # Font families
 heading_font = "Playfair Display"
-body_font = "Baskervville"
+body_font = "Playfair Display"
 nav_font = "Courier Prime"
 mono_font = "Baskervville"

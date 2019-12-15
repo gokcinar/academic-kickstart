@@ -28,7 +28,7 @@ image = "concorde_engine.png"  # Name of image in `static/img/`.
 image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
 image_position = "center"  # Options include `left`, `center` (default), or `right`.
-image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
+image_parallax = true # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -55,7 +55,7 @@ padding = ["100px", "0", "500px", "0"]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-<font size="-0.5">
+<font size="-0.1">
 
 Engineer of Aerospace. <br>Creator of YouTube videos.<br>Lover of science and technology.<br>Proponent of gender equality.<br><s>Mother of Dragons.</s>
 
