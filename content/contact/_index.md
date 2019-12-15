@@ -1,7 +1,6 @@
 ---
 title: Contact
 type = "widget_page"
-headless = false  # Homepage is headless, other widget pages are not.
 
 # View.
 #   1 = List
