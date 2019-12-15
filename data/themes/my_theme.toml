@@ -1,16 +1,16 @@
 # Theme metadata
-name = "My Theme"
+name = "Minimal"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#002999"
+primary = "#6699ff"
 
 # Menu
 menu_primary = "#fff"
 menu_text = "#34495e"
-menu_text_active = "#002999"
+menu_text_active = "#2962ff"
 menu_title = "#2b2b2b"
 
 # Home sections
