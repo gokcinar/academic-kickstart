@@ -35,7 +35,7 @@ image_parallax = true # Use a fun parallax-like fixed background effect? true/fa
 
 [design.spacing]
 
-padding = ["50px", "0", "400px", "0"]
+padding = ["100px", "50px", "400px", "0"]
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
