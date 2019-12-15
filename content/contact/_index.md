@@ -1,4 +1,4 @@
 ---
 title: Contact
-type = "widget_page"
+type: "widget_page"
 ---
