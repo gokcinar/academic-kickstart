@@ -17,13 +17,11 @@ title = "Gökçin Çınar, Ph.D."
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-
-color = "black"
+  # color = "navy"
 
   # Background gradient.
- # gradient_start = "black"
-
-# gradient_end = "black"
+  gradient_start = "black"
+  gradient_end = "black"
 
   # Background image.
 image = "concorde_engine.png"  # Name of image in `static/img/`.
