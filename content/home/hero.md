@@ -52,12 +52,8 @@ padding = ["100px", "0", "400px", "0"]
 
 # Note. An optional note to show underneath the links.
 #[cta_note]
+
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-<font size="5" style="Playfair Display">
-
-Engineer of Aerospace. <br>Creator of YouTube videos.<br>Lover of science and technology.<br>Proponent of gender equality.<br><s>Mother of Dragons.</s>
-
-</font>
-
+<font size="5" face="georgia">Engineer of Aerospace.</font><br><font size="5" face="georgia">Creator of YouTube videos.</font><br><font size="5" face="georgia">Lover of science and technology.</font><br><font size="5" face="georgia">Proponent of gender equality.</font><br><s><font size="5" face="georgia">Mother of Dragons.</font></s>
