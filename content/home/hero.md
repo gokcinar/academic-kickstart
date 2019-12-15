@@ -35,7 +35,7 @@ image_parallax = true # Use a fun parallax-like fixed background effect? true/fa
 
 [design.spacing]
 
-padding = ["100px", "0", "500px", "0"]
+padding = ["100px", "0", "400px", "0"]
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
@@ -55,7 +55,7 @@ padding = ["100px", "0", "500px", "0"]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-<font size="2">
+<font size="4">
 
 Engineer of Aerospace. <br>Creator of YouTube videos.<br>Lover of science and technology.<br>Proponent of gender equality.<br><s>Mother of Dragons.</s>
 
