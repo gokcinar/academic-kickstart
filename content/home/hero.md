@@ -17,11 +17,13 @@ title = "Gökçin Çınar, Ph.D."
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+
+color = "black"
 
   # Background gradient.
-  gradient_start = "black"
-  gradient_end = "black"
+ # gradient_start = "black"
+
+# gradient_end = "black"
 
   # Background image.
 image = "concorde_engine.png"  # Name of image in `static/img/`.
@@ -35,7 +37,7 @@ image_parallax = true # Use a fun parallax-like fixed background effect? true/fa
 
 [design.spacing]
 
-padding = ["100px", "50px", "400px", "0"]
+padding = ["100px", "0", "400px", "0"]
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
