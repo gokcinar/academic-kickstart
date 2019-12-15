@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Courier+Prime|Gelasio|Playfair+Display"
+google_fonts = "Girassol|Courier+Prime|Gelasio|Playfair+Display"
 
 # Font families
-heading_font = "Courier Prime"
+heading_font = "Girassol"
 body_font = "Gelasio"
 nav_font = "Courier Prime"
 mono_font = "Courier Prime"
