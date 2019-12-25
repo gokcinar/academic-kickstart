@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "First Analysis of Quasi-Periodic Whistler Mode Emissions in Saturn's Inner Magnetosphere"
-authors: [JS Leisner, G Cinar, GB Hospodarsky, P Schippers, DA Gurnett, O Santolik, AJ Coates]
+authors: [JS Leisner, Gokcin Cinar, GB Hospodarsky, P Schippers, DA Gurnett, O Santolik, AJ Coates]
 date: 2010-12-01
 doi: ""
 

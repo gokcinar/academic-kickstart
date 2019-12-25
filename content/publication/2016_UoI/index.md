@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Evidence of time-variable electrons at Saturn: Quasi-periodic whistler mode emissions in the inner magnetosphere"
-authors: [JS Leisner, Gokcin Cinar, GB Hospodarsky, CS Arridge, DA Gurnett, AJ Coates]
-date: 2011-10-01
+title: "Quasi-Periodic Whistler Mode Emissions in Saturn's Inner Magnetosphere"
+authors: [George Hospodarsky, Jared Leisner, Gokcin Cinar, William Kurth, Donald Gurnett, Ondrej Santolik]
+date: 2016-04-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-12-25T12:57:07-05:00
+publishDate: 2019-12-25T13:06:08-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2019-12-25T12:57:07-05:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "EPSC-DPS Joint Meeting 2011"
+publication: "EGU General Assembly 2016, held 17-22 April, 2016 in Vienna Austria, id. EPSC2016-9340"
 publication_short: ""
 
-abstract: "When Cassini passes through Saturn's inner magnetosphere, the Radio and Plasma Wave Science (RPWS) instrument occasionally observes a series of whistler mode emissions that each rise in frequency over a period of five to ten minutes and repeat every five to ten minutes. These waves are present in the RPWS data set from 2005 through the present date and are observed over a large range of planocentric distances and latitudes. These waves are strongly correlated with the rotating density asymmetry inside of ~5 RS, but do not appear to be correlated with the spacecraft's position relative to Enceladus. We estimate that the source electrons would have energies greater than about 1 keV, much higher than the eV thermal electron temperature. Lastly, RPWS observes these waves between 5 and 10% of the time spent inside of ~5 RS. We discuss possible sources of these azimuthally-asymmetric and time-variable electrons and consider consequences of their presence in inner-magnetospheric dynamics."
+abstract: "The Cassini Radio and Plasma Wave Science (RPWS) instrument often detects at Saturn a series of quasi-periodic (QP) whistler mode emissions that rise in frequency and repeat every few to about ten minutes. These QP emissions are detected about 5% of the time when Cassini is within ~5.5 Rs of Saturn and are primarily observed near the magnetic equator. They are usually detected in the frequency range of about 1 to 3 kHz, and appear to be related to electrons with energies of a few keV. Their spectral characteristics are very similar to the quasi-periodic whistler mode emissions detected in Earth's magnetosphere. However, it is unclear if the same type of source generation can explain the Earth and Saturn QP emissions."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://ui.adsabs.harvard.edu/abs/2011epsc.conf.1361L/abstract
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
