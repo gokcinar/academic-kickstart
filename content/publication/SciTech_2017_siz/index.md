@@ -1,30 +1,30 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A Methodology for Sizing and Analysis of Electric Propulsion Subsystems for Unmanned Aerial Vehicles"
-authors: [Gokcin Cinar, Mathias Emeneth, Dimitri N Mavris]
-date: 2016-01-01
-doi: "10.2514/6.2016-0216"
+title: "SciTech_2017_siz"
+authors: []
+date: 2019-12-25T12:20:28-05:00
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-12-25T11:57:24-05:00
+publishDate: 2019-12-25T12:20:28-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "54th AIAA Aerospace Sciences Meeting"
-publication_short: "AIAA"
+publication: ""
+publication_short: ""
 
-abstract: "Traditionally, interactions between aircraft and their subsystems are estimated by empirical relationships based on historical data. However, in the case of unconventional designs or implementation of recent technologies, these estimations cannot fully capture the interactions between system and subsystem levels. This paper lays out a methodology for evaluating subsystem level effects of electric propulsion technology on system level design metrics of an unmanned aerial vehicle (UAV). The proposed approach relies on parametric subsystem models to estimate vehicle and mission level measures of performance and integrates the electric propulsion subsystem sizing with vehicle sizing at the conceptual design stage. The methodology is applied to a baseline UAV in the Pacelab SysArc design environment. Then, the electric propulsion architecture is compared to a turboprop engine through the estimated vehicle and mission level performance characteristics."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [electric, uav, sizing]
+tags: []
 categories: []
 featured: false
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arc.aiaa.org/doi/pdf/10.2514/6.2016-0216
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
