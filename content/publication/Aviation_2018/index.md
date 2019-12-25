@@ -16,8 +16,8 @@ publishDate: 2019-12-25T12:35:59-05:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2018 Aviation Technology, Integration, and Operations Conference"
-publication_short: "AIAA AVIATION Forum"
+publication: "2018 Aviation Technology, Integration, and Operations Conference, AIAA AVIATION Forum"
+publication_short: ""
 
 abstract: "The drive for more efficient flying vehicles in all categories may necessitate a significant departure from the tube-and-wing or rotary-wing norms that have been the mainstay of aviation for many decades. This poses challenges for predicting the aerodynamic characteristics and the weight build-up of such unconventional vehicles in early design phases. Additionally, the design and assessment of advanced/unconventional all-electric or hybrid-electric propulsion system architectures require consideration of degrees-of-freedom and trade-offs that do not arise for conventional purely fuel-powered architectures. Thus, there is a need for a flexible vehicle sizing, trade-off, and optimization capability that is not limited to a single vehicle configuration (e.g., fixed-wing, rotary-wing) or propulsion system architecture. To be suitable for the early design phases, such a framework must evaluate relatively quickly, not require extensive definition of the vehicle, and lend itself to customizable design optimization setups. This paper describes the initial creation of such a capability and demonstrates its application to design trade-offs for a General Aviation vehicle with an advanced propulsion system architecture."
 
