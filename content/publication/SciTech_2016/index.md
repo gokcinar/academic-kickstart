@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A Methodology for Sizing and Analysis of Electric Propulsion Subsystems for Unmanned Aerial Vehicles"
-authors: []
+authors: [Gokcin Cinar, Mathias Emeneth, Dimitri N Mavris]
 date: 2016-01-01
 doi: "10.2514/6.2016-0216"
 
