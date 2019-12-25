@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Gökçin Çınar, Ph.D."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-# hero_media = "concorde_engine.png"
+# hero_media = "concorde_engine.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
