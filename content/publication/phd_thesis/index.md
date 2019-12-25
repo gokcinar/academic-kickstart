@@ -26,7 +26,7 @@ summary: ""
 
 tags: [electric, hybridization, sizing, aircraft design, power management, transient analysis, power generation and distribution, propulsion architecture, architecture comparisons]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
