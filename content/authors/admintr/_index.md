@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Engineer II (Araştırma Mühendisi)
+role: Research Engineer II
 
 # Organizations/Affiliations
 organizations:
