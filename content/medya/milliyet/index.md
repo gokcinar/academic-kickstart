@@ -35,3 +35,5 @@ projects: []
 Haberde, YouTube kanalımız [Bizsiz Onlar](http://youtube.com/BizsizOnlar)'a da yer verildi. Bu kanalda, popüler bilim, teknoloji, mühendislik ve akademi alanlarında eğlenceli yayınlar yapıyoruz. Yayınlarımızda bu alanlarda cinsiyet eşitliğinin önemine değiniyoruz.
 
 Umarım bu haber genç arkadaşların havacılığa, mühendisliğe ve bilime olan ilgisini arttırmakta bir parça da olsun rol oynar. Umarım Türk yatırımcılarımız hibrit elektrik uçakların gerçekten de istikbalimiz olduğunu görür ve güzel yatırımlar yapar. Ülkemizde hibrit elektrik uçakların geliştirilmesi ve üretilmesi için ben elimden gelen bütün yardımı yapmaya hazırım. Ve son olarak, umarım meslek seçimi dönemindeki genç kızlar, havacılığın, mühendisliğin, tıpkı diğer bütün meslekler gibi "cinsiyetsiz" olduğunu görür ve gönülleri burada yatıyorsa hiçbir baskıya aldırmaksızın tercihlerini bu yönde yaparlar.
+
+Haberi hazırlayan gazeteci Meltem Günay'a sonsuz teşekkürlerimi sunarım. Haberin internetteki sürümüne [buraya tıklayarak](http://www.milliyet.com.tr/gundem/elektrikli-ucaklarda-turk-imzasi-6090865) ulaşabilirsiniz.

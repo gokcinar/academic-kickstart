@@ -33,3 +33,5 @@ I was featured on the front page news on one of the major newspapers in Turkey. 
 The article also mentions our YouTube channel where my husband and I post informational videos about STEM, engineering and most importantly, women in STEM. One of my biggest aims in life is to be an example for young women anywhere in the world, who have a passion for STEM, but are told by some ignorant people that engineering or STEM in general is not for women. Professions do not have genders, but throughout my YouTube journey I unfortunately realized that some girls are being oppressed by their families or communities. To them, I always say the same thing:
 
 If you have a passion for it, study hard and don't listen to those who think you cannot be whoever you want to be because of your gender, nationality, race or age. They clearly don't know you, and they sure don't know anything about STEM!
+
+![Example image](/img/milliyet2.jpeg)
