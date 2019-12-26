@@ -5,7 +5,7 @@ title: "Front Page News on Turkish Newspaper"
 subtitle: ""
 summary: "I was featured on the front page news on one of the major newspapers in Turkey."
 authors: []
-tags: []
+tags: [press]
 categories: [press]
 date: 2019-12-26T16:34:52-05:00
 lastmod: 2019-12-26T16:34:52-05:00
