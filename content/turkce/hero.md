@@ -56,4 +56,4 @@ padding = ["100px", "0", "400px", "0"]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-<font>Havacılık ve Uzay Mühendisi.</font><br><font>YouTube videoları yapıcısı.</font><br><font>Bilim ve teknoloji severi.</font><br><font>Cinsiyet eşitliği destekçisi.</font><br><s><font size="4" face="Playfair Display">Ejderhaların Annesi.</font></s>
+<font size="4" face="Playfair Display">Havacılık ve Uzay Mühendisi.</font><br><font size="4" face="Playfair Display">YouTube videoları yapıcısı.</font><br><font size="4" face="Playfair Display">Bilim ve teknoloji severi.</font><br><font size="4" face="Playfair Display">Cinsiyet eşitliği destekçisi.</font><br><s><font size="4" face="Playfair Display">Ejderhaların Annesi.</font></s>
