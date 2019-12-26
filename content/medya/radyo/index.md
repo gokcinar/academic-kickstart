@@ -3,7 +3,7 @@
 
 title: "Radyo"
 subtitle: ""
-summary: "TRT Ankara Radyosu'nda bir canlı yayına konuk oldum."
+summary: "TRT Ankara Radyosu'nda canlı yayına konuk oldum."
 authors: []
 tags: [basın]
 categories: [basın]
