@@ -3,7 +3,7 @@
 
 title: "Webinar: Gökyüzündeki Yeşil Gelecek: Hibrit Elektrikli Uçaklar"
 subtitle: ""
-summary: "Türkiye Teknoloji Geliştirme Vakfı (TTGV)'nin bünyesindeki ideaport projesinin düzenlediği webinar'da "Gökyüzündeki Yeşil Gelecek: Hibrit Elektrikli Uçaklar" adlı sunumumla yılın son konuğu oldum."
+summary: "Türkiye Teknoloji Geliştirme Vakfı (TTGV)'nin bünyesindeki ideaport projesinin düzenlediği webinar'da 'Gökyüzündeki Yeşil Gelecek: Hibrit Elektrikli Uçaklar' adlı sunumumla yılın son konuğu oldum."
 authors: []
 tags: [basın]
 categories: [basın]
