@@ -1,6 +1,6 @@
 +++
 # Homepage
-title: Turkce
+title: Türkçe
 type: "widget_page"
 
 +++
