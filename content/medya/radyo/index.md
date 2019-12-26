@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Radyo"
+title: "TRT Radyo 1'de Canlı Yayın Konuğu Oldum"
 subtitle: ""
-summary: "TRT Ankara Radyosu'nda canlı yayına konuk oldum."
+summary: "TRT Ankara Radyosu'nda Hayatın Sesi adlı programda hibrit elektrik uçakları ve mühendislikte cinsiyet eşitliğini konuştuğumuz unutulmaz bir gün yaşadım."
 authors: []
 tags: [basın]
 categories: [basın]
