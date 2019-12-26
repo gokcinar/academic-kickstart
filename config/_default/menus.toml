@@ -32,5 +32,5 @@
 
 [[main]]
   name = "Türkçe"
-  url = "#turkce/"
+  url = "turkce/"
   weight = 80
