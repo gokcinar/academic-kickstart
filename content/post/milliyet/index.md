@@ -1,13 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Front Page News on Turkish Newspaper Milliyet / Milliyet Gazetesi Manşeti"
+title: "Front Page News on Turkish Newspaper"
 subtitle: ""
-summary: "I was featured on the front page news on one of the major newspapers in Turkey.
-1 Aralık 2019 tarihli Milliyet Gazetesi'nin manşetindeydim."
+summary: "I was featured on the front page news on one of the major newspapers in Turkey."
 authors: []
 tags: []
-categories: []
+categories: [press]
 date: 2019-12-26T16:34:52-05:00
 lastmod: 2019-12-26T16:34:52-05:00
 featured: true

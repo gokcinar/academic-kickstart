@@ -34,3 +34,8 @@
   name = "Türkçe"
   url = "turkce/"
   weight = 80
+  
+[[main]]
+  name = "Medyada Ben"
+  url = "medya/"
+  weight = 90
