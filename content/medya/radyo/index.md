@@ -2,13 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Radyo"
-subtitle: "TRT Ankara Radyosu'nda bir canlı yayına konuk oldum."
-summary: ""
+subtitle: ""
+summary: "TRT Ankara Radyosu'nda bir canlı yayına konuk oldum."
 authors: []
-tags: []
-categories: []
+tags: [basın]
+categories: [basın]
 date: 2019-12-20T17:38:37-05:00
-lastmod: 2019-12-26T17:38:37-05:00
+lastmod: 2019-12-20T17:38:37-05:00
 featured: false
 draft: false
 
