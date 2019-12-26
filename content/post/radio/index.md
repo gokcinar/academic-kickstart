@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Radio"
+title: "I was on the Turkish national radio!"
 subtitle: ""
-summary: ""
+summary: "I was invited as a guest on a live program streamed by the Turkish national radio. We talked about hybrid electric aircraft and gender equality in STEM."
 authors: []
-tags: []
+tags: [press]
 categories: [press]
 date: 2019-12-20T17:34:04-05:00
 lastmod: 2019-12-26T17:34:04-05:00
