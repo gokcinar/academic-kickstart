@@ -4,7 +4,7 @@ name: Gökçin Çınar
 
 # Username (this should match the folder name)
 authors:
-- admin_tr
+- admintr
 
 # Is this the primary user of the site?
 superuser: true
