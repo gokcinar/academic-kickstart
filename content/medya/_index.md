@@ -1,6 +1,6 @@
 ---
 title: Basin
-
+type: "post"
 # View.
 #   1 = List
 #   2 = Compact
