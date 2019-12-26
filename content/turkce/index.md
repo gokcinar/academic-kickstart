@@ -1,6 +1,6 @@
 +++
 # Homepage
-type = "widget_page"
 title: Turkce
+type: "widget_page"
 
 +++
