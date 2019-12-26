@@ -7,8 +7,8 @@ summary: "Türkiye Teknoloji Geliştirme Vakfı (TTGV)'nin bünyesindeki ideapor
 authors: []
 tags: [basın]
 categories: [basın]
-date: 2019-12-26T17:45:26-05:00
-lastmod: 2019-12-26T17:45:26-05:00
+date: 2019-12-24T17:45:26-05:00
+lastmod: 2019-12-24T17:45:26-05:00
 featured: false
 draft: false
 
