@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Milliyet Gazetesi'nin Manşetindeydim"
+title: "Milliyet Gazetesi'nin Manşetinde Yer Aldım"
 subtitle: ""
 summary: " Aralık Pazar Milliyet Gazetesi'nin manşetinde doktora tez çalışmalarım ve YouTube kanalımız yer alıyor. "
 authors: []
