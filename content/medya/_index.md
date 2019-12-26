@@ -1,6 +1,8 @@
 ---
-title: Basin
+title: Basında Ben
 type: "post"
+reading_time: true  # Show estimated reading time?
+share: true # Show social sharing links?
 # View.
 #   1 = List
 #   2 = Compact
