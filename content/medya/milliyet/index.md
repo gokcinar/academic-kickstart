@@ -3,7 +3,7 @@
 
 title: "Milliyet Gazetesi'nin Manşetinde Yer Aldım"
 subtitle: ""
-summary: " Aralık Pazar Milliyet Gazetesi'nin manşetinde doktora tez çalışmalarım ve YouTube kanalımız yer alıyor. "
+summary: "1 Aralık Pazar Milliyet Gazetesi'nin manşetinde doktora tez çalışmalarım ve YouTube kanalımız yer alıyor. "
 authors: []
 tags: [basın]
 categories: [basın]
