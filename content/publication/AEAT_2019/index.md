@@ -26,7 +26,7 @@ summary: ""
 
 tags: [Electric, Propulsion architecture, Power management, Sizing and synthesis, Hybridization]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
