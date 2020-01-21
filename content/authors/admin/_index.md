@@ -32,7 +32,7 @@ education:
   - course: PhD in Aerospace Engineering
     institution: Georgia Institute of Technology
     year: 2018
-  - course: MS in Aerospace Engineering
+  - course: MSc in Aerospace Engineering
     institution: Georgia Institute of Technology
     year: 2015
   - course: BSc in Aerospace Engineering
