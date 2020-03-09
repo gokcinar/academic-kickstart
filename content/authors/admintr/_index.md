@@ -21,8 +21,8 @@ organizations:
 bio: Ana araştırma alanlarımın arasında hibrit elektrik uçak mimarileri, altsistem modelleme ve entegrasyonu, ve güç yönetim optimizasyonu vardır.
 
 interests:
-- Elektirilmiş Uçak ve İtki Sistemleri
-- Havacılım Sistemleri Mimarisi, Tasarımı ve Entegrasyonu
+- Elektiriklendirilmiş Uçak ve İtki Sistemleri
+- Havacılık Sistemleri Mimarisi, Tasarımı ve Entegrasyonu
 - Güç Yönetim Optimizasyonu
 #- Modeling and Simulation
 #- Model-based Systems Engineering
