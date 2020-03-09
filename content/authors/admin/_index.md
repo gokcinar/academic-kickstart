@@ -18,7 +18,7 @@ organizations:
   url: "https://www.gatech.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main research interests include hybrid electric aircraft architectures, subsystem modeling and integration, and power management optimization.
+bio: My main research interests include aircraft design, electrified aircraft propulsion architectures, subsystem modeling and integration, and power management optimization.
 
 interests:
 - Electrified Aircraft and Propulsion Systems

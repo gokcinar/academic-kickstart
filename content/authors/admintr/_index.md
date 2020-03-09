@@ -18,7 +18,7 @@ organizations:
   url: "https://www.gatech.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ana araştırma alanlarımın arasında hibrit elektrik uçak mimarileri, altsistem modelleme ve entegrasyonu, ve güç yönetim optimizasyonu vardır.
+bio: Ana araştırma alanlarımın arasında uçak tasarımı, hibrit elektrik uçak itki mimarileri, altsistem modelleme ve entegrasyonu, ve güç yönetim optimizasyonu vardır.
 
 interests:
 - Elektiriklendirilmiş Uçak ve İtki Sistemleri
