@@ -78,7 +78,7 @@ user_groups:
 - Visitors
 ---
 
-Hi there! My name is Gökçin Çınar, or Gokcin Cinar to the non-Turkish speaking world. I work as a Research Engineer II at [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/) (ASDL) at **Georgia** Institute of **Tech**nology.
+Hi there! My name is Gökçin Çınar. I work as a Research Engineer II at [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/) (ASDL) at **Georgia** Institute of **Tech**nology.
 
 My main research interests include hybrid electric aircraft architectures, subsystem modeling and integration, and power management optimization. Since 2012, I've been involved in a range of projects including but not limited to future aircraft technologies, green aviation, electrified aircraft and its propulsion subsystems, thermal management systems, and model-based systems engineering.
 
@@ -88,4 +88,4 @@ I received my Master's and Ph.D. degrees in Aerospace Engineering from Georgia T
 
 I am a member of the American Institute of Aeronautics and Astronautics (AIAA). Within AIAA, I am a member of the Energy Optimized Aircraft Systems Integration Committee and the Aircraft Electrified Propulsion and Power Working Group. I am also involved in the organizing committee for AIAA/IEEE Electric Aircraft Technologies Symposium in 2020.
 
-Back in 2016, I started a [YouTube channel](http://youtube.com/BizsizOnlar) (currently it's only in Turkish) to promote STEM and gender equality in STEM. Together with my husband, Efe Yamac Yarbasi, we shoot fun videos about interesting research we read in scientific articles, our own experience in academia, and various other topics related to STEM. One of my favorite free-time activities (that is, the limited amount of time that I allow myself to call free) is to interact with our young followers who want to be an aerospace engineer or in the process of making one!
+Back in 2016, I started a [YouTube channel](http://youtube.com/BizsizOnlar) (content is in Turkish only) to promote STEM and gender equality in STEM. Together with my husband, Efe Yamac Yarbasi, we shoot fun videos about interesting research we read in scientific articles, our own experience in academia, and various other topics related to STEM. One of my favorite free-time activities (that is, the limited amount of time that I allow myself to call free) is to interact with our young followers who want to be an aerospace engineer or in the process of making one!
