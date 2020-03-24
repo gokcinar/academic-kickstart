@@ -4,7 +4,7 @@
 title: "Milliyet Gazetesi: Başarının bir sırrı var"
 subtitle: ""
 summary: "8 Mart 2020 tarihli Milliyet Gazetesi'nde başarılı kadınlar arasında bana da yer verildi. "
-authors: []
+authors: [admintr]
 tags: [basın]
 categories: [basın]
 date: 2020-03-08T16:34:52-05:00
