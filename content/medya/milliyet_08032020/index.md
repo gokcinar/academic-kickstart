@@ -38,7 +38,7 @@ projects: []
 
 
 
-Ben de listede bilim ve mühendislik alanında bir temsilci olmak adına, başarılı olmak için izlediğim yolla ilgili düşüncelerimi paylaştım. Ama şunu eklemeliyim ki, ben kendimi henüz büyük işler başarmış olarak görmüyorum. Bu da başarı kavramının kendisiyle ilgili sanırım: başarı nedir ki? Bana sorduğunuzda alacağınız yanıt başka, kendinize sorduğunuzda alacağınız yanıt başka olacaktır muhtemelen. Hepimizin hayatta başarılı olmak adına koyduğumuz kendimize ait hedefleri vardır elbet. Ve bu hedefler pek tabii kişiden kişiye de değişebilir. Ama unutmamak gereken bir şey var ki, bu hedefler onlara ulaştığımızda da değişir!
+Ben de listede bilim ve mühendislik alanlarında bir temsilci olmak adına, başarılı olmak için izlediğim yolla ilgili düşüncelerimi paylaştım. Ama şunu eklemeliyim ki, ben kendimi henüz tam anlamıyla başarılı görmüyorum. Bu da başarı kavramının kendisiyle ilgili sanırım: başarı nedir ki? Bana sorduğunuzda alacağınız yanıt başka, kendinize sorduğunuzda alacağınız yanıt başka olacaktır muhtemelen. Hepimizin hayatta başarılı olmak adına koyduğumuz kendimize ait hedefleri vardır elbet. Ve bu hedefler pek tabii kişiden kişiye de değişebilir. Ama unutmamak gereken bir şey var ki, bu hedefler onlara ulaştığımızda da değişir!
 
 
 
@@ -46,7 +46,7 @@ Ben de listede bilim ve mühendislik alanında bir temsilci olmak adına, başar
 
 ![Example image](/img/8mart_basarinin_sirri_var_cinar.jfif)
 
-15 sene önce hayalim havacılık mühendisi olmaktı. 10 sene önce Amerika'nın en iyi okullarından birinde doktoraya, doktora masraflarımı karşılayacak bir fonla kabul almaktı. 5 sene önce doktoramı başarıyla tamamlayıp iyi bir işe girmekti. Bütün bu hayallerimi gerçekleştirmiş olduğum için bu alanlarda başarılı olduğumu düşünüyorum. Ancak hedeflerim bunlarla sınırlı değildi. Daha yapılacak birçok iş, öğrenilecek birçok şey, hayali kurulacak birçok hedef var... Günün birinde kendimi gerçek anlamda "başarılı" bulacak mıyım bilmiyorum. Ama bildiğim tek şey, hayallerimin ve hedeflerimin sürekli geliştiği ve büyüdüğü. Hayallerimi gerçekleştirmek adına çıktığım bu yoldaki her zafer de bu yolda daha güçlü bir şekilde devam etmemi sağlıyor. Ve bu hayallerimi gerçekleştirmemde bana yardımcı olan herkese teşekkürlerimi sunuyorum.
+Tablonun o kadar da kötü olmadığının farkındayım. Geriye dönüp baktığımda, 15 sene önce hayalim havacılık mühendisi olmaktı. 10 sene önce Amerika'nın en iyi okullarından birinde doktoraya, doktora masraflarımı karşılayacak bir fonla kabul almaktı. 5 sene önce doktoramı başarıyla tamamlayıp, sevdiğim alanda çalışmalarıma özgürce devam edebileceğim bir işe girmekti. Bütün bu hayallerimi gerçekleştirmiş olduğum için bu alanlarda kendimce başarılı sayılabileceğimi düşünüyorum. Ancak hedeflerim bunlarla sınırlı değildi. Daha yapılacak birçok iş, öğrenilecek birçok şey, hayali kurulacak birçok hedef var... Günün birinde kendimi gerçek anlamda "başarılı" bulacak mıyım bilmiyorum. Ama bildiğim tek şey, hayallerimin ve hedeflerimin sürekli geliştiği ve büyüdüğü. Hayallerimi gerçekleştirmek adına çıktığım bu yoldaki her zafer de bu yolda daha güçlü bir şekilde devam etmemi sağlıyor. Ve bu hayallerimi gerçekleştirmemde bana yardımcı olan herkese teşekkürlerimi sunuyorum.
 
 
 
