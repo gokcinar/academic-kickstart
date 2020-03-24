@@ -47,3 +47,7 @@ Ben de listede bilim ve mühendislik alanında bir temsilci olmak adına, başar
 ![Example image](/img/8mart_basarinin_sirri_var_cinar.jfif)
 
 15 sene önce hayalim havacılık mühendisi olmaktı. 10 sene önce Amerika'nın en iyi okullarından birinde doktoraya, doktora masraflarımı karşılayacak bir fonla kabul almaktı. 5 sene önce doktoramı başarıyla tamamlayıp iyi bir işe girmekti. Bütün bu hayallerimi gerçekleştirmiş olduğum için bu alanlarda başarılı olduğumu düşünüyorum. Ancak hedeflerim bunlarla sınırlı değildi. Daha yapılacak birçok iş, öğrenilecek birçok şey, hayali kurulacak birçok hedef var... Günün birinde kendimi gerçek anlamda "başarılı" bulacak mıyım bilmiyorum. Ama bildiğim tek şey, hayallerimin ve hedeflerimin sürekli geliştiği ve büyüdüğü. Hayallerimi gerçekleştirmek adına çıktığım bu yoldaki her zafer de bu yolda daha güçlü bir şekilde devam etmemi sağlıyor. Ve bu hayallerimi gerçekleştirmemde bana yardımcı olan herkese teşekkürlerimi sunuyorum.
+
+
+
+Haberin içeriğine [buraya tıklayarak](https://www.milliyet.com.tr/ekonomi/basarinin-bir-sirri-var-6160817) ulaşabilirsiniz.
