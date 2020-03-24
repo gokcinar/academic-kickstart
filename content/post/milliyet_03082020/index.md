@@ -32,11 +32,11 @@ I was featured in one of the most read newspapers in Turkey, Milliyet Gazetesi, 
 
 
 
-Obviously, I'm honored to be featured among such successful women and to represent the women in STEM. With that said, I have to note that I do not see myself as "successful" yet. The definition of success changes from person to person, but it also changes based on where you are in your life. As humans, we have a tendency to ignore all the things we've achieved and focus on the next big thing in our lives. Honestly, I do fall into this trap as much as the next person. But this is not what I mean by claiming that I am not successful yet. 
+Obviously, I'm honored to be featured among such successful women and to represent the women in STEM. With that said, I have to note that I do not see myself as "successful" yet. The definition of success changes from one person to another, sure. But it also changes based on where you are in your life. As humans, we have a tendency to ignore all the things we've achieved and focus on the next big thing in our lives. Honestly, I do fall into this trap as much as the next person. But this is not what I mean by claiming that I am not successful yet. 
 
 
 
-15 years ago, I would have considered myself to be successful if I could become an aerospace engineer. 10 years ago, my goal was to get into one of the best graduate programs in aerospace engineering in the world with a research assistantship position. 5 years ago, it was completing my PhD degree and landing on a good job. I have achieved all of these goals, and for this, I consider successful in these matters. But there's just so much more to accomplish, so much more to learn, many other things that I dream of... I don't know when, if ever, I can call myself successful. All I know is, it's a moving target and it keeps me going, hopefully stronger with every little victory on the road.
+15 years ago, I would have considered myself to be successful if I could become an aerospace engineer. 10 years ago, my goal was to get into one of the best graduate programs in aerospace engineering in the world with a research assistantship position. 5 years ago, it was completing my PhD degree and landing on a good job. I have achieved all of these goals, and for this, I consider successful in these matters. But there's just so much more to accomplish, so much more to learn, many other things that I dream of... I don't know when, if ever, I can call myself successful. All I know is, it's a moving target and it keeps me going, stronger with every little victory down the road.
 
 
 
