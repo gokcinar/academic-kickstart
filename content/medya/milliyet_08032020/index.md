@@ -42,13 +42,8 @@ Ben de listede bilim ve mühendislik alanında bir temsilci olmak adına, başar
 
 
 
-İnsan doğasından olsa gerek, hedeflerine ulaştıktan sonra büyük bir mutluluk içinde bir kenara çekilen, kendine bir daha hedef koymayan kimseyi görmedim ben. Hedeflerimize ulaştıkça, belki küçük bir zafer sevincinin ardından, yenisini koymakta hiç gecikmiyoruz. Hatta kendi adıma, istediğim şeyler gerçekleşince, o daha önceden bir başarı kıstası olarak kendime hedef koyduğum işlerin çok da bir önemi kalmıyor. Çünkü hemen o "başarılmış" kıstasların ya da hedeflerin yerini bir yenisi alıyor. Dolayısıyla da her zaman daha iyisinin mümkün olduğunu düşünüyorum. Çünkü öğrenmek, kendini geliştirmek, keşfetmek ve hayal kurmak hiçbir zaman bitmiyor. 
+İnsan doğasından olsa gerek, hedeflerine ulaştıktan sonra büyük bir mutluluk içinde bir kenara çekilen, kendine bir daha hedef koymayan kimseyi görmedim ben. Hedeflerimize ulaştıkça, belki küçük bir zafer sevincinin ardından, yenisini koymakta hiç gecikmiyoruz. Hatta kendi adıma, istediğim şeyler gerçekleşince, o daha önceden bir başarı kıstası olarak kendime hedef koyduğum işlerin çok da bir önemi kalmıyor. Çünkü hemen o "başarılmış" hedeflerin yerini bir yenisi alıyor. Dolayısıyla da her zaman daha iyisinin mümkün olduğunu düşünüyorum. Çünkü öğrenmek, kendini geliştirmek, keşfetmek ve hayal kurmak hiçbir zaman bitmiyor. 
 
 ![Example image](/img/8mart_basarinin_sirri_var_cinar.jfif)
 
-15 sene önce hayalim havacılık mühendisi olmaktı. 10 sene önce Amerika'nın en iyi okullarından birinde doktoraya, doktora masraflarımı karşılayacak bir fonla kabul almaktı. 5 sene önce doktoramı başarıyla tamamlayıp iyi bir işe girmekti. Şimdiyse alanımdaki sayılı saygın isimlerin arasına girmek. İsmimi bu alanda yavaş yavaş çalışmalarımla duyurmaya başlamış olsam da daha katedecek çok yolum, "başaracak" çok işim var. Dolayısıyla başarı tanımı insanın hayatında bulunduğu ana ve bakış açısına göre bile o kadar değişken bir şey ki, "evet, işte ben şimdi başarılıyım" demek yolu yarıda sonlandırmak gibi geliyor bana.
-
-
-
-Bütün bu belki de karamsar düşüncelerime rağmen, Milliyet Gazetesi'nde, üstelik de kadınlar gününde düşüncelerime yer verilmesi beni çok mutlu etti.
-
+15 sene önce hayalim havacılık mühendisi olmaktı. 10 sene önce Amerika'nın en iyi okullarından birinde doktoraya, doktora masraflarımı karşılayacak bir fonla kabul almaktı. 5 sene önce doktoramı başarıyla tamamlayıp iyi bir işe girmekti. Bütün bu hayallerimi gerçekleştirmiş olduğum için bu alanlarda başarılı olduğumu düşünüyorum. Ancak hedeflerim bunlarla sınırlı değildi. Daha yapılacak birçok iş, öğrenilecek birçok şey, hayali kurulacak birçok hedef var... Günün birinde kendimi gerçek anlamda "başarılı" bulacak mıyım bilmiyorum. Ama bildiğim tek şey, hayallerimin ve hedeflerimin sürekli geliştiği ve büyüdüğü. Hayallerimi gerçekleştirmek adına çıktığım bu yoldaki her zafer de bu yolda daha güçlü bir şekilde devam etmemi sağlıyor.
