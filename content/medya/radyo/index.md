@@ -4,7 +4,7 @@
 title: "TRT Radyo 1'de Canlı Yayın Konuğu Oldum"
 subtitle: ""
 summary: "TRT Ankara Radyosu'nda Hayatın Sesi adlı programda hibrit elektrik uçakları ve mühendislikte cinsiyet eşitliğini konuştuğumuz unutulmaz bir gün yaşadım."
-authors: []
+authors: [admintr]
 tags: [basın]
 categories: [basın]
 date: 2019-12-20T17:38:37-05:00
