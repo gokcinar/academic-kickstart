@@ -4,7 +4,7 @@
 title: "I was on the Turkish national radio!"
 subtitle: ""
 summary: "I was invited as a guest on a live program streamed by the Turkish national radio. We talked about hybrid electric aircraft and gender equality in STEM."
-authors: []
+authors: [admin]
 tags: [press]
 categories: [press]
 date: 2019-12-20T17:34:04-05:00

@@ -4,7 +4,7 @@
 title: "Media Coverage on International Women's Day"
 subtitle: ""
 summary: "I was featured in a major Turkish newspaper among with some of the most successful women in Turkey."
-authors: []
+authors: [admin]
 tags: [press]
 categories: [press]
 date: 2020-03-08T16:34:52-05:00
