@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Feasibility Assessments of a Hybrid Turboelectric Medium Altitude Long Endurance Unmanned Aerial Vehicle"
-authors: [Gokcin Cinar, Alexander A. Markov, Jonathan C. Gladin, Elena Garcia, Dimitri N. Mavris and Soumya S. Patnaik]
+title: "An Update on Sizing and Performance Analysis of a Hybrid Turboelectric Regional Jet for the NASA ULI Program"
+authors: [Christopher Perullo, Mingxuan Shi, Gokcin Cinar, Alan Alahmad, Mitchell Sanders, Dimitri N. Mavris and Meyer Benzakein]
 date: 2020-08-17
-doi: "10.2514/6.2020-3577"
+doi: "10.2514/6.2020-3590"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-05T12:39:40-05:00
+publishDate: 2020-10-05T11:39:40-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,12 +19,12 @@ publication_types: ["1"]
 publication: "AIAA/IEEE Electric Technologies Symposium 2020"
 publication_short: ""
 
-abstract: "Electrified propulsion systems can provide potential environmental and performance benefits for future aircraft. The choice of the right propulsion architecture and the power management strategy depends on a number of factors, the airframe, electrification objectives and metrics of interest being the most critical ones. Therefore, the generic advantages and disadvantages of various electrified propulsion architectures must be quantified to assess feasibility and any possible benefits. Moreover, the objectives and the metrics of interest can be different for military applications than commercial ones. This research investigates the feasibility of turboelectric and hybrid turboelectric propulsion architectures integrated within a medium altitude long endurance surveillance unmanned aerial vehicle. The electrified propulsion system is desired to provide the same endurance and takeoff and landing field length characteristics of the baseline aircraft. This paper presents the results of the first phase of this research where only the electrified propulsion system is sized while the airframe is kept fixed. Physics-based models and a generic mission analysis methodology are used to evaluate the performance of the major subsystems of the propulsion system and to provide a full flight mission history. A state of the art rechargeable battery is employed for the hybrid case. Various power management strategies where the battery is discharged and charged in different flight segments are explored for varying sizes of battery packs. Results indicate that, while none of the architectures can offset the added weight and the efficiency factors of the electrical components as expected, the hybrid turboelectric propulsion architecture can provide fuel burn and performance benefits when sized for, and operated under, a specific set of power management strategies."
+abstract: "Under the NASA University Leadership Initiative (ULI) program, a team of universities are collaborating on the advancement of technologies a hybrid turboelectric regional jet, with an intent to enter service in the 2030 timeframe. In the previous studies of the ULI program, the in-service benefits of the technologies under development were analyzed by integrating the technologies of interest to a 2030 regional jet with a hybrid turbo-electric distributed propulsion system. As the program has progressed, the projected performances for each technology and subsystem have been updated. This paper presents an update in the sizing and performance analysis of the regional jet with the hybrid turbo-electric distributed propulsion system, by integrating the updated values of the technologies and subsystems to the vehicle. The updates in this paper include the DC/AC conversion links, efficiency of generator and cabling losses, weight of the wires, the battery cooling through the environmental control system, motor and inverter cooling by the thermal management system, and the redundancy strategy of the propulsion system. The updates of the results from the integrated model include the overall efficiency of the propulsion system, mission fuel savings, mission energy flow distribution, and the optimal hybridization rate in climb and cruise. The overall fuel saving benefit for the target 600-nmi mission is 19.9% compared to the baseline aircraft."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [electrified aircraft, electric, aircraft design, uav, e-pass, hybridization, power management, propulsion architecture]
+tags: [electrified aircraft, electric, aircraft design, hybridization, power management, propulsion architecture]
 categories: []
 featured: false
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arc.aiaa.org/doi/abs/10.2514/6.2020-3577
+url_pdf: https://arc.aiaa.org/doi/10.2514/6.2020-3590
 url_code:
 url_dataset:
 url_poster:
