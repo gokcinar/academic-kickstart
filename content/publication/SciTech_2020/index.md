@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arc.aiaa.org/doi/abs/10.2514/6.2020-1616
+url_pdf: https://smartech.gatech.edu/handle/1853/62476
 url_code:
 url_dataset:
 url_poster:
