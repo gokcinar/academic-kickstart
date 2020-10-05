@@ -24,7 +24,7 @@ abstract: "This paper presents a methodology for the sizing and synthesis of pow
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [electric, sizing, propulsion architecture]
+tags: [electrified aircraft, sizing, propulsion architecture, hybridization]
 categories: []
 featured: false
 

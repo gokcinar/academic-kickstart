@@ -24,7 +24,7 @@ abstract: "The ongoing efforts to reduce aviation related greenhouse gas emissio
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [electric, subsystem, power generation and distribution]
+tags: [electrified aircraft, subsystem modeling, power generation and distribution]
 categories: []
 featured: false
 

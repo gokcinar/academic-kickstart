@@ -24,7 +24,7 @@ abstract: "Purpose – The purpose of this paper was to create a generic and fle
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Electric, Propulsion architecture, Power management, Sizing and synthesis, Hybridization]
+tags: [Electrified Aircraft, Propulsion architecture, Power management, Distributed Electric Propulsion, E-PASS]
 categories: []
 featured: true
 

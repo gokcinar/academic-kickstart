@@ -24,7 +24,7 @@ abstract: "Electric and hybrid electric aircraft pose a significant architecture
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [electric, hybridization, sizing, aircraft design, power management, transient analysis, power generation and distribution, propulsion architecture, architecture comparisons]
+tags: [Electrified aircraft, aircraft design, power management, transient analysis, power generation and distribution, propulsion architecture, E-PASS]
 categories: []
 featured: true
 

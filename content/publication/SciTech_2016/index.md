@@ -24,7 +24,7 @@ abstract: "Traditionally, interactions between aircraft and their subsystems are
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [electric, uav, sizing]
+tags: [electrified aircraft, aircraft design, uav, sizing and synthesis]
 categories: []
 featured: false
 

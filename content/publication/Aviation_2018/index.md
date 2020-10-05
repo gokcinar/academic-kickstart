@@ -24,7 +24,7 @@ abstract: "The drive for more efficient flying vehicles in all categories may ne
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [electric, sizing, general aviation, propulsion architectures, e-pass]
+tags: [Electrified Aircraft, Aircraft Design, General aviation, propulsion architectures, E-PASS, Hybrid electric]
 categories: []
 featured: false
 
