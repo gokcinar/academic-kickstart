@@ -7,7 +7,7 @@ date: 2020-08-17
 doi: "10.2514/6.2020-3577"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-05T12:39:40-05:00
+# publishDate: 2020-10-05T12:39:40-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
