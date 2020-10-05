@@ -26,7 +26,7 @@ summary: ""
 
 tags: [Electrified Aircraft, Propulsion architecture, Power management, Distributed Electric Propulsion, E-PASS]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
