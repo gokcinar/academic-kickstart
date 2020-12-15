@@ -16,7 +16,7 @@ publishDate: 2019-12-25T12:39:40-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Aircraft Engineering and Aerospace Technology, Emerald Publishing Limited"
+publication: "Aircraft Engineering and Aerospace Technology, Vol. 92 No. 5, pp. 675-684, 2019"
 publication_short: ""
 
 abstract: "Purpose – The purpose of this paper was to create a generic and flexible framework for the exploration, evaluation and side-by-side comparison of novel propulsion architectures. The intent for these evaluations was to account for varying operation strategies and to support architectural design space decisions, at the conceptual design stages, rather than single-point design solutions. Design/methodology/approach – To this end, main propulsion subsystems were categorized into energy, power and thrust sources. Two types of matrices, namely, the property and interdependency matrices, were created to describe the relationships and power flows among these sources. These matrices were used to define various electrified propulsion architectures, including, but not limited to, turboelectric, series-parallel and distributed electric propulsion configurations. Findings – As a case study, the matrices were used to generate and operate the distributed electric propulsion architecture of NASA’s X-57 Mod IV aircraft concept. The mission performance results were acceptably close to the data obtained from the literature. Finally, the matrices were used to simulate the changes in the operation strategy under two motor failure scenarios to demonstrate the ease of use, rapidness and automation. Originality/value – It was seen that this new framework enables rapid and analysis-based comparisons among unconventional propulsion architectures where solutions are driven by requirements."
@@ -26,7 +26,7 @@ summary: ""
 
 tags: [Electrified Aircraft, Propulsion architecture, Power management, Distributed Electric Propulsion, E-PASS]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

@@ -26,7 +26,7 @@ summary: ""
 
 tags: [Electrified aircraft, aircraft design, power management, transient analysis, power generation and distribution, propulsion architecture, E-PASS]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
