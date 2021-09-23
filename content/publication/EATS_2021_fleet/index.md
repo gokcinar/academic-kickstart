@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: ""Fleet Analysis of a Hybrid Turboelectric Commercial Regional Jet under NASA ULI Program"
+title: "Fleet Analysis of a Hybrid Turboelectric Commercial Regional Jet under NASA ULI Program"
 authors: [Mingxuan Shi, Gokcin Cinar, and Dimitri Mavris]
 date: 2021-07-28
 doi: "10.2514/6.2021-3327"

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: ""Performance Assessment of a Distributed Electric Propulsion System for a Medium Altitude Long Endurance Unmanned Aerial Vehicle"
+title: "Performance Assessment of a Distributed Electric Propulsion System for a Medium Altitude Long Endurance Unmanned Aerial Vehicle"
 authors: [Alex Markov, Gokcin Cinar, Jonathan C. Gladin, Elena Garcia, Russell K. Denney, Soumya S. Patnaik, and Dimitri Mavris]
 date: 2021-07-28
 doi: "10.2514/6.2021-3289"
