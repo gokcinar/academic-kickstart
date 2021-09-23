@@ -24,7 +24,7 @@ abstract: "Distributed propulsion systems are enabled by electrified aircraft an
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [electrified aircraft, electric, aircraft design, hybridization, power management, propulsion architecture, fleet analysis]
+tags: [electrified aircraft, electric, e-pass, uav, aircraft design, hybridization, power management, propulsion architecture]
 categories: []
 featured: true
 
