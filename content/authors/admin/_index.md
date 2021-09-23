@@ -56,12 +56,12 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/c/BizSizOnlar
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/gok.cinar
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GokcinCinar
+# - icon: instagram
+#  icon_pack: fab
+#  link: https://instagram.com/gok.cinar
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -80,7 +80,7 @@ user_groups:
 
 Hi there! My name is Gökçin Çınar. I currently work as a Research Engineer II at [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/) (ASDL) at **Georgia** Institute of **Tech**nology.
 
-<u>New announcement:</u>  **I'll be joining the [Aerospace Engineering Department](https://aero.engin.umich.edu/) at the University of Michigan as an Assistant Professor in January 2022.** Prospective and current UM students: **If you are interested in pursuing your Master's or Ph.D. degree or doing research as an undergrad with me in the research areas listed below, please [contact me!](https://www.gokcincinar.com/contact/)**
+**NEW ANNOUNCEMENT:  I'll be joining the [Aerospace Engineering Department](https://aero.engin.umich.edu/) at the University of Michigan as an Assistant Professor in January 2022. Prospective and current UM students: If you are interested in pursuing your Master's or Ph.D. degree or doing research as an undergrad with me in the research areas listed below, please [contact me!](https://www.gokcincinar.com/contact/)**
 
 My main research interests include aerospace systems architecting, integration, and design with a special focus on electrified aircraft concepts and sustainable aviation. In my research, I utilize probabilistic and statistical methods and techniques for surrogate modeling, machine learning, design space exploration and decision making to analyze, understand and design the complex system behavior of an aerospace vehicle. Since 2012, I've been involved in a range of projects including future aircraft technologies, green aviation, electrified aircraft and its propulsion subsystems, thermal management systems, and model-based systems engineering.
 
