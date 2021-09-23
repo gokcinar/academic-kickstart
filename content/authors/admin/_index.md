@@ -18,12 +18,12 @@ organizations:
   url: "https://www.gatech.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main research interests include aircraft design, electrified aircraft propulsion architectures, subsystem modeling and integration, and power management optimization.
+bio: My main research interests include aerospace systems architecting, integration, and design with a special focus on electrified aircraft concepts and sustainable aviation.
 
 interests:
 - Electrified Aircraft and Propulsion Systems
 - Aerospace Systems Architecting, Design and Integration
-- Power Management Optimization 
+- Sustainable Aviation Technologies
 #- Modeling and Simulation
 #- Model-based Systems Engineering
 
@@ -80,7 +80,7 @@ user_groups:
 
 Hi there! My name is Gökçin Çınar. I currently work as a Research Engineer II at [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/) (ASDL) at **Georgia** Institute of **Tech**nology.
 
-New announcement:  **I'll be joining the [Aerospace Engineering Department](https://aero.engin.umich.edu/) at the University of Michigan as an Assistant Professor in January 2022.** Prospective and current UM students: If you are interested in pursuing your Master's or Ph.D. degree or doing research as an undergrad with me in the research areas listed below, please contact me!
+<u>New announcement:</u>  **I'll be joining the [Aerospace Engineering Department](https://aero.engin.umich.edu/) at the University of Michigan as an Assistant Professor in January 2022.** Prospective and current UM students: **If you are interested in pursuing your Master's or Ph.D. degree or doing research as an undergrad with me in the research areas listed below, please [contact me!](https://www.gokcincinar.com/contact/)**
 
 My main research interests include aerospace systems architecting, integration, and design with a special focus on electrified aircraft concepts and sustainable aviation. In my research, I utilize probabilistic and statistical methods and techniques for surrogate modeling, machine learning, design space exploration and decision making to analyze, understand and design the complex system behavior of an aerospace vehicle. Since 2012, I've been involved in a range of projects including future aircraft technologies, green aviation, electrified aircraft and its propulsion subsystems, thermal management systems, and model-based systems engineering.
 
