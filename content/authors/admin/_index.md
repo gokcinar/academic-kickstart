@@ -76,8 +76,6 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
-
-As a research engineer at ASDL, I lead or work with multi-disciplinary groups to conduct fundamental research funded by various sponsors from the industry and government. I advise graduate students on their projects and theses. As someone who likes to add their own touch to their "habitat", I also kick-started or rekindled some projects at ASDL that were not necessarily in my job definition. I manage [ASDL's website](https://www.asdl.gatech.edu/) and social media accounts on [Twitter](https://twitter.com/asdl_gatech), [Instagram ](https://www.instagram.com/asdl_gatech/)and [LinkedIn](https://www.linkedin.com/groups/2407/). I rekindled the [ASDL publication repository](https://smartech.gatech.edu/handle/1853/6027) on Georgia Tech's open-access publication repository, SMARTech, where you can find the many research papers and dissertations published by ASDL over the years. I started the ASDL Knowledge Sharing Project which provides a platform for researchers to share their experience, codes, tools, documents, or Q&A's.
 ---
 
 Hi there! My name is Gökçin Çınar. I currently work as a Research Engineer II at [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/) (ASDL) at **Georgia** Institute of **Tech**nology.
