@@ -8,8 +8,8 @@ for Ph.D. students for exciting, funded research opportunities beginning August 
 authors: [admin]
 tags: [ideas]
 categories: [ideas]
-date: 2021-11-26T16:34:52-05:00
-lastmod: 2021-11-26T16:34:52-05:00
+date: 2021-11-13T16:34:52-05:00
+lastmod: 2021-11-13T16:34:52-05:00
 featured: true
 draft: false
 
