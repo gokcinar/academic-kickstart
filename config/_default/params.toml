@@ -90,14 +90,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "275 Ferst Drive NW", city = "Atlanta", region = "GA", postcode = "30332-0150", country = "United States", country_code = "US"}
+# address = {street = "275 Ferst Drive NW", city = "Atlanta", region = "GA", postcode = "30332-0150", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "33.772706", longitude = "-84.396908"}
+#coordinates = {latitude = "33.772706", longitude = "-84.396908"}
 
 # Directions for visitors to locate you.
-directions = "Weber Space Science and Technology (SST) Building. Room 308."
+#directions = "Weber Space Science and Technology (SST) Building. Room 308."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
