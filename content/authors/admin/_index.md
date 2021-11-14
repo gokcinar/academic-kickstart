@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Incoming Assistant Professor (Jan '22)
+role: Assistant Professor of Aerospace Engineering (Jan '22)
 
 # Organizations/Affiliations
 organizations:
