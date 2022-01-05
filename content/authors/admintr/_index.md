@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Engineer II
+role: Havacılık ve Uzay Mühendisliği Yardımcı Doçenti
 
 # Organizations/Affiliations
 organizations:
-- name: Georgia Institute of Technology
-  url: "https://www.gatech.edu/"
+- name: University of Michigan
+  url: "https://www.umich.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ana araştırma alanlarımın arasında havacılık sistemleri mimarisi, entegrasyonu ve tasarımı vardır. Uygulamalarım özellikle elektrik uçak konseptleri ve sürdürülebilir havacılık odaklıdır.
 
 interests:
-- Elektiriklendirilmiş Uçak ve İtki Sistemleri
-- Havacılık Sistemleri Mimarisi, Tasarımı ve Entegrasyonu
-- Sürdürülebilir Havacılık Teknolojileri
+- Havacılık sistemleri mimarisi, tasarımı ve pptimizasyonu
+- Sürdürülebilir havacılık teknolojileri, elektrikli ve hidrojenle çalışan uçak konseptleri
+- Gelişmiş tasarım yöntemleri (ör. istatistiksel modelleme, olasılıksal tasarım, makine öğrenimi vb.)
+- Model Tabanlı Sistem Mühendisliği
 #- Modeling and Simulation
 #- Model-based Systems Engineering
 
@@ -78,12 +79,12 @@ user_groups:
 - Visitors
 ---
 
-Merhaba! Ben Gökçin Çınar, Amerika Birleşik Devletleri'nin Atlanta şehrinde bulunan ve dünyanın sayılı mühendislik okulları arasında yer alan **Georgia** Institute of **Tech**nology'deki [Havacılık Sistemleri Tasarımı Laboratuarı](https://www.asdl.gatech.edu/) (Aerospace Systems Design Lab) bünyesinde Araştırma Mühendisi olarak çalışıyorum. Burada, sanayi ve devlet kuruluşlarının fon sağladığı çeşitli bilimsel araştırma projelerinde çok-disiplinli gruplarla birlikte çalışıyor, bu gruplara liderlik etmek ve lisansüstü öğrencilerine proje ve tezlerinde danışmanlık yapıyorum. Ocak 2022'de [University of Michigan Havacılık ve Uzay Mühendisliği Bölümü](https://aero.engin.umich.edu/)'nde Yardımcı Doçent olarak göreve başlayacağım.
+Merhaba! Ben Gökçin Çınar, Amerika Birleşik Devletleri'nin Ann Arbor şehrinde bulunan ve dünyanın en iyi okulları arasında yer alan Michigan Üniversitesi'nin Havacılık ve Uzay Mühendisliği Bölümü'nde Yardımcı Doçentim. Michigan'da Çevre Dostu Havacılık Sistemlerinin Entegre Tasarımı (Integrated Design of Environmentally-friendly Aerospace Systems, IDEAS) Laboratuvarı adlı yeni bir araştırma programı kuruyorum. IDEAS Laboratuvarı'ndaki araştırmalar, yeni uçak konseptlerinin tasarımında ve işletilmesinde sera gazı emisyonlarının sistem düzeyindeki ve yaşam döngüsündeki etkisini hesaba katan bütünsel bir yaklaşım getirmeyi amaçlıyor.
 
-Araştırma konularımın arasında, elektriklendirilmiş uçak konseptleri ve sürdürülebilir havacılık uygulamaları başta olmak üzere havacılık sistemleri mimarisi, tasarımı ve entegrasyonu var. Araştırmalarımda hava araçlarının kompleks sistem davranışlarını analiz etmek, anlamak ve tasarım alanlarını keşfetmek için olasılık ve istatistik bazlı modelleme metot ve teknikleri, makine öğrenmesi, ve sistem mühendisliği kullanıyorum. 2012'den beri, gelecek uçak teknolojileri, yeşil havacılık, elektriklendirilmiş uçak ve itki sistem ve altsistemleri, ısı yönetim sistemleri ve model bazlı sistem mühendisliği gibi çeşitli araştırma projelerinde yer aldım.
+Araştırma konularımın arasında, elektriklendirilmiş uçak konseptleri ve sürdürülebilir havacılık uygulamaları başta olmak üzere havacılık sistemleri mimarisi, tasarımı ve entegrasyonu var. Araştırmalarımda hava araçlarının karmaşık sistem davranışlarını analiz etmek, anlamak ve tasarım alanlarını keşfetmek için olasılıksal ve istatistiksel modelleme teknikleri, makine öğrenmesi, ve model tabanlı sistem mühendisliği kullanıyorum. 2012'den beri, geleceğin uçak teknolojileri, yeşil havacılık, elektriklendirilmiş uçak ve itki sistem ve altsistemleri, ısı yönetim sistemleri ve model tabanlı sistem mühendisliği dahil olmak üzere çeşitli araştırma projelerinde yer aldım. Michigan'a gelmeden önce, Georgia Institute of Technology'de Araştırma Mühendisi olarak çalıştım. Burada yeşil havacılık için geliştirdiğimiz uçak teknolojileri üzerine yürüttüğüm araştırma projeleri, ABD hükümeti ve yerli ve yabancı sanayi tarafından fonlandı.
 
-Master ve Doktora derecelerimi sırasıyla 2015 ve 2018 yıllarında Georgia Tech Havacılık ve Uzay Mühendisliği bölümünden aldım. Lisans derecemi 2012 yılında Orta Doğu Teknik Üniversitesi Havacılık ve Uzay Mühendisliği bölümünden aldım. “*Methodology for Dynamic Sizing of Electric Power Generation and Distribution Architectures*” adlı doktora tezime [Prof. Dimitri Mavris](https://www.asdl.gatech.edu/Faculty.html) danışmanlık yaptı. Doktora tezimin bir parçası olarak  “*Electrified Propulsion Architecture Sizing and Synthesis (E-PASS)*” adında parametrik, fizik temelli, özgün uçak tasarım ve analiz yazılımı geliştirdim. E-PASS şimdiye kadar NASA, AFRL ve Boeing gibi kuruluşlar tarafından fonlanan birçok araştırma projesini mümkün kıldı.
+Master ve Doktora derecelerimi sırasıyla 2015 ve 2018 yıllarında Georgia Tech Havacılık ve Uzay Mühendisliği bölümünden aldım. Lisans derecemi 2012 yılında Orta Doğu Teknik Üniversitesi Havacılık ve Uzay Mühendisliği bölümünden aldım. “*Methodology for Dynamic Sizing of Electric Power Generation and Distribution Architectures*” adlı doktora tezime Prof. Dimitri Mavris danışmanlık yaptı. Doktora tezimin bir parçası olarak  “*Electrified Propulsion Architecture Sizing and Synthesis (E-PASS)*” adında parametrik, fizik temelli, özgün uçak tasarım ve analiz yazılımı geliştirdim. E-PASS şimdiye kadar NASA, AFRL ve Boeing gibi kuruluşlar tarafından fonlanan birçok araştırma projesini mümkün kıldı.
 
-American Institute of Aeronautics and Astronautics (AIAA)'in uzun yıllardır üyesiyim. AIAA'in içersinde, Electrified Aircraft Technical Committee (Elektriklendirilmiş Uçak Teknik Komitesi)'nin Yayın ve İlke alt komite başkanıyım. Ayrıca, 3 yılı aşkın süredir AIAA ve IEEE'nin ortaklaşa düzenledikleri Electric Aircraft Technologies Symposium (EATS, Elektrik Uçak Teknolojileri Sempozyumu)'nu organize komitesi üyesiyim. EATS 2022'de Teknik Program Başkanı olarak görev yapıyorum. 2022'de EATS, IEEE'nin bünyesindeki [IEEE Transportation Electrification Conference (ITEC)](https://itec-conf.com/) ile birlikte düzenlenecek. Konferansa makale göndermek isterseniz [Call for Papers'a buraya tıklayarak](https://itec-conf.com/itec/wp-content/uploads/2021/09/Call-For-PapersV4.pdf) ulaşabilirsiniz. Ayrıca lisans ve lisansüstü öğrencilerin katılabileceği, ödüllü Student Design Competition da yakında açıklanacak!
+American Institute of Aeronautics and Astronautics (AIAA)'in uzun yıllardır üyesiyim. AIAA'in içersinde, Electrified Aircraft Technology Technical Committee (Elektriklendirilmiş Uçak Teknolojisi Teknik Komitesi)'nin Yayın ve İlke alt komite başkanıyım. Ayrıca, 3 yılı aşkın süredir AIAA ve IEEE'nin ortaklaşa düzenledikleri Electric Aircraft Technologies Symposium (EATS, Elektrik Uçak Teknolojileri Sempozyumu)'nu organize komitesi üyesiyim. EATS 2022'de Yayın Kürsüsü Eş-Başkanı olarak görev yapıyorum. 2022'de EATS, IEEE'nin bünyesindeki [IEEE Transportation Electrification Conference (ITEC)](https://itec-conf.com/) ile birlikte düzenlenecek.
 
-Profesyonel hayatımın dışında, henüz bir doktora öğrencisiyken 2016 yılında, bilim, teknoloji, mühendislik ve matematik (STEM) ve cinsiyet eşitliği ile ilgili konularda eşim Efe Yamaç Yarbaşı ile birlikte yayınlar yaptığımız [Bizsiz Onlar adında bir YouTube kanalı](http://youtube.com/BizsizOnlar) açtım. Videolarımızın içeriğini ilgimizi çeken ya da az bilindiğini düşündüğümüz ve bilimsel kaynaklardan araştırmalar yapıp öğrendiğimiz konular, akademideki kendi deneyimlerimiz ya da bilim ve teknolojiye dayalı çeşitli konular oluşturuyor. Uzunca bir süredir yeni video çekmeye vakit bulamasak da takipçilerimizle olabildiğince iletişim halinde kalmaya özen gösteriyorum. Bunun yanı sıra zaman buldukça lise, üniversite, profesyonel kurum ve diğer yerel ve sosyal medya kanallarında da konuşmalara ve seminerlere katılıyorum. Davetleriniz için bana [Contact](https://www.gokcincinar.com/contact/) kısmından ulaşabilirsiniz.
+Profesyonel hayatımın dışında, henüz bir doktora öğrencisiyken 2016 yılında, bilim, teknoloji, mühendislik ve matematik (STEM) ve cinsiyet eşitliği ile ilgili konularda [Efe Yamaç Yarbaşı](https://www.linkedin.com/in/efe-yama%C3%A7-yarba%C5%9F%C4%B1-5a99a6aa/) ile birlikte yayınlar yaptığımız [Bizsiz Onlar adında bir YouTube kanalı](http://youtube.com/BizsizOnlar) açtım. Videolarımızın içeriğini ilgimizi çeken ya da az bilindiğini düşündüğümüz ve bilimsel kaynaklardan araştırmalar yapıp öğrendiğimiz konular, akademideki kendi deneyimlerimiz ya da bilim ve teknolojiye dayalı çeşitli konular oluşturuyor. Uzunca bir süredir yeni video çekmeye vakit bulamasak da takipçilerimizle olabildiğince iletişim halinde kalmaya özen gösteriyorum. Bunun yanı sıra zaman buldukça lise, üniversite, profesyonel kurum ve diğer yerel ve sosyal medya kanallarında da konuşmalara ve seminerlere katılıyorum. Davetleriniz için bana [Contact](https://www.gokcincinar.com/contact/) kısmından ulaşabilirsiniz.
