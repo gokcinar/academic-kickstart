@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Aerospace Engineering (Jan '22)
+role: Assistant Professor of Aerospace Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.umich.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main research interests include aerospace systems design, integration, and architecting with a special focus on electrified aircraft and sustainable aviation concepts.
+bio: My main research interests include aerospace systems design, integration, and optimization with a special focus on electrified aircraft and sustainable aviation concepts.
 
 interests:
 - Aerospace systems design, integration, optimization
@@ -77,14 +77,14 @@ user_groups:
 - Visitors
 ---
 
-Hi there! My name is Gökçin Çınar. I currently work as a Research Engineer II at [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/) (ASDL) at Georgia Institute of Technology. I'll be joining the [Aerospace Engineering Department](https://aero.engin.umich.edu/) at the University of Michigan as an Assistant Professor in January 2022. At Michigan, I am starting a new research program called **I**ntegrated **D**esign of **E**nvironmentally-friendly **A**erospace **S**ystems (IDEAS) Lab. Research at IDEAS Lab will aim to bring a holistic approach that accounts for the system-level and life-cycle impact of greenhouse gas emissions in the design and operation of new aircraft concepts.
+Hi there! My name is Gökçin Çınar (*pronounced as gok-chin chin-r*). I am an Assistant Professor at the [Department of Aerospace Engineering](https://aero.engin.umich.edu/) at the University of Michigan (Go Blue!). I am starting a new research program at Michigan called **I**ntegrated **D**esign of **E**nvironmentally-friendly **A**erospace **S**ystems (IDEAS) Lab. Research at IDEAS Lab will aim to bring a holistic approach that accounts for the system-level and life-cycle impact of greenhouse gas emissions in the design and operation of new aircraft concepts.
 
 **New announcement:** **I am looking for highly qualified and motivated PhD students with strong academic backgrounds for exciting, funded research opportunities beginning August 2022.** [Click here](https://drive.google.com/file/d/1c5ow0G1QrrQWgerPh7FhI8nkspyOXxTZ/view?usp=sharing) to learn more about the position and application criteria.
 
-My main research interests include aerospace systems design, integration, and optimization with a special focus on electrified aircraft concepts and sustainable aviation. In my research, I utilize model-based engineering along with probabilistic and statistical methods, surrogate modeling and machine learning, to analyze, understand and design the complex system behavior of an aerospace vehicle. Since 2012, I've been involved in a range of funded projects including future aircraft technologies, green aviation, electrified aircraft and its propulsion subsystems, thermal management systems, and model-based systems engineering.
+My main research interests include aerospace systems design, integration, and optimization with a special focus on electrified aircraft concepts and sustainable aviation. In my research, I utilize model-based engineering along with probabilistic and statistical methods, surrogate modeling and machine learning, to analyze, understand and design the complex system behavior of an aerospace vehicle. Since 2012, I've been involved in a range of funded projects including future aircraft technologies, green aviation, electrified aircraft and its propulsion subsystems, thermal management systems, and model-based systems engineering. Prior to my role at Michigan, I worked as a Research Engineer at Georgia Institute of Technology where Ioversaw a range of government and industry funded research projects on novel aircraft technologies for greener aviation.
 
 I received my Master's and Ph.D. degrees in Aerospace Engineering from Georgia Tech in 2015 and 2018, respectively. I earned my Bachelor's degree in Aerospace Engineering from Middle East Technical University in Ankara, Turkey in 2012. My doctoral dissertation titled “*Methodology for Dynamic Sizing of Electric Power Generation and Distribution Architectures*” was conducted in consultation with [Prof. Dimitri Mavris](https://www.asdl.gatech.edu/Faculty.html) at Georgia Tech. As part of my Ph.D. work, I created a parametric, physics-based novel aircraft design and analysis framework and a software called “*Electrified Propulsion Architecture Sizing and Synthesis (E-PASS)*”. E-PASS has since enabled various new research topics funded by NASA, AFRL, and Boeing. 
 
-I am a member of the American Institute of Aeronautics and Astronautics (AIAA). I am currently serving as the Publications and Policy Chair of AIAA's Electrified Aircraft Technical Committee. For the past 3 years I have been a member of the Organizing Committee for the AIAA/IEEE Electric Aircraft Technologies Symposium (EATS). I am the Technical Program Chair of EATS 2022, which will be held jointly with the [IEEE Transportation Electrification Conference (ITEC)](https://itec-conf.com/) this upcoming year. Check out the [Call for Papers for ITEC & EATS here](https://itec-conf.com/itec/wp-content/uploads/2021/09/Call-For-PapersV4.pdf), and stand by for the EATS Student Design Competition!
+I am a member of the American Institute of Aeronautics and Astronautics (AIAA). I am currently serving as the Publications and Policy Chair of AIAA's Electrified Aircraft Technology Technical Committee. For the past 3 years I have been a member of the Organizing Committee for the AIAA/IEEE Electric Aircraft Technologies Symposium (EATS). I am the Publication Co-Chair of [2022 IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS)](https://itec-conf.com/). Check out the [Call for Papers for ITEC & EATS here](https://itec-conf.com/itec/wp-content/uploads/2021/09/Call-For-PapersV4.pdf), and the [Student Design Competition](https://itec-conf.com/student-competition/)!
 
 Back in 2016, I started a [YouTube channel](http://youtube.com/BizsizOnlar) (for now the contents are in Turkish only) to promote STEM and gender equality in STEM. Together with my partner, [Efe Yamaç Yarbaşı](https://www.linkedin.com/in/efe-yama%C3%A7-yarba%C5%9F%C4%B1-5a99a6aa/), we shoot fun videos about interesting research we read in scientific articles, our own experience in academia, and various other topics related to STEM. Although we hardly ever find the time to shoot new videos for a long while now, I very much enjoy interacting with our young followers who want to be an aerospace engineer or in the process of making one. As part of this outreach, I also give invited talks and seminars at high schools, universities, and local and social media platforms.
