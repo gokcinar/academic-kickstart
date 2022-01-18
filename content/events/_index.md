@@ -1,5 +1,6 @@
 ---
 title: Recent & Upcoming Events
+type: "talk"
 
 # View.
 #   1 = List
