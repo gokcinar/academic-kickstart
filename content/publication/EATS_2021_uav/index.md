@@ -26,7 +26,7 @@ summary: ""
 
 tags: [electrified aircraft, electric, e-pass, uav, aircraft design, hybridization, power management, propulsion architecture]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -67,3 +67,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
