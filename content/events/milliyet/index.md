@@ -3,7 +3,7 @@
 
 title: "2022 Annual INCOSE International Workshop"
 subtitle: ""
-summary: "U-M professors George Halow and Gokcin Cinar, and graduate student Julia Weiss will give a keynote speech on undergraduate model-based systems engineering program at the University of Michigan."
+summary: "U-M professors George Halow and Gokcin Cinar and graduate student Julia Weiss will give a keynote speech on undergraduate model-based systems engineering program at the University of Michigan."
 authors: [admin]
 tags: [events]
 categories: [events]
