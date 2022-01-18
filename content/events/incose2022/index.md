@@ -28,4 +28,6 @@ image:
 projects: []
 ---
 
+U-M professors George Halow and Gokcin Cinar and graduate student Julia Weiss will give a keynote speech on the new undergraduate model-based systems engineering program at the University of Michigan.
+
 The keynote will take place on Saturday, January 29, 2022 between 11 am - 12 pm PST in Torrance CA. 2022 Annual INCOSE International Workshop is a hybrid event. [Learn more and register.](https://www.incose.org/iw2022)
