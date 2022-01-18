@@ -1,12 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Front Page News on Turkish Newspaper"
+title: "title: "2022 Annual INCOSE International Workshop"
+date: 2022-01-29"
 subtitle: ""
-summary: "I was featured on the front page news on one of the major newspapers in Turkey."
+summary: "U-M professors George Halow and Gokcin Cinar, and graduate student Julia Weiss will give a keynote speech on undergraduate model-based systems engineering program at the University of Michigan."
 authors: [admin]
-tags: [press]
-categories: [press]
+tags: [events]
+categories: [events]
 date: 2019-12-26T16:34:52-05:00
 lastmod: 2019-12-26T16:34:52-05:00
 featured: true
@@ -16,7 +17,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Me on the front page news"
+  caption: "INCOSE Workshop 2022"
   focal_point: "Center"
   preview_only: false
 
@@ -28,10 +29,7 @@ image:
 projects: []
 ---
 
-I was featured on the front page news on one of the major newspapers in Turkey. The story covered my PhD thesis on hybrid electric aircraft, and the product of my thesis: a sizing and synthesis tool for electrified aircraft and its propulsion architectures, called E-PASS.
+The keynote will take place on Saturday, January 29, 2022 between 11 am - 12 pm PST in Torrance CA. 2022 Annual INCOSE International Workshop is a hybrid event.
+Event website: [https://www.incose.org/iw2022](https://www.incose.org/iw2022)
 
-The article also mentions our YouTube channel where my husband and I post informational videos about STEM, engineering and most importantly, women in STEM. One of my biggest aims in life is to be an example for young women anywhere in the world, who have a passion for STEM, but are told by some ignorant people that engineering or STEM in general is not for women. Professions do not have genders, but throughout my YouTube journey I unfortunately realized that some girls are being oppressed by their families or communities. To them, I always say the same thing:
 
-If you have a passion for it, study hard and don't listen to those who think you cannot be whoever you want to be because of your gender, nationality, race or age. They clearly don't know you, and they sure don't know anything about STEM!
-
-![Example image](/img/milliyet2.jpeg)
