@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks & Events
+title: Recent & Upcoming Events
 
 # View.
 #   1 = List
@@ -9,7 +9,7 @@ view: 3
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "2022 Annual INCOSE International Workshop"
-  image: "/events/INCOSEworkshop2022.jpg"
+  caption: ""
+  image: ""
 ---
 
