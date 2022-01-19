@@ -56,4 +56,4 @@ padding = ["100px", "0", "400px", "0"]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-<font size="4" face="Playfair Display">Aerospace Engineer.</font><br><font size="4" face="Playfair Display">Assistant Professor.</font><br><font size="4" face="Playfair Display">Principal Investigator.</font><br><font size="4" face="Playfair Display">Science Communicator.</font><br><s><font size="4" face="Playfair Display">Mother of Dragons.</font></s>
+<font size="4" face="Playfair Display">Aerospace Engineer.</font><br><font size="4" face="Playfair Display">Assistant Professor.</font><br><font size="4" face="Playfair Display">Principal Investigator.</font><br><s><font size="4" face="Playfair Display">Mother of Dragons.</font></s>
