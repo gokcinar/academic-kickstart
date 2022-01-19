@@ -19,13 +19,13 @@ design:
 Research at IDEAS Lab aims to bring a **holistic approach** that accounts for the **system-level and life-cycle** impact of greenhouse gas emissions in the **design and operation of novel aircraft concepts**. We explore the **new aircraft design space** created by **revolutionary aerospace technologies** to **maximize the environmental and operational benefits** through the use of **physics-based modeling, probabilistic design methods** and **integrated systems engineering** approaches.
 
 ### Current research topics include:
-- Aerospace systems design, integration, optimization
+![- Aerospace systems design, integration, optimization
 - Sustainable aviation with a special focus on electrified and hydrogen-powered aircraft concepts
 - Statistical and probabilistic design methods
 - Surrogate modeling and machine learning
-- Model-based systems engineering
+- Model-based systems engineering](img/home/IDEAS-Lab.png)
 
-{{< figure src="img/home/IDEAS-Lab.png" caption="Research at IDEAS" align="center" >}}
+{{< figure src="img/home/IDEAS-Lab.png" caption="Research at IDEAS" align="right" >}}
 
 ### Electrified Propulsion Architecture Sizing and Synthesis: E-PASS
 Developed by Dr. Cinar, E-PASS is an energy-based aircraft sizing and synthesis tool in MATLAB. **E-PASS enables conceptual design and performance evaluation of advanced aircraft concepts with *any* type of propulsion architecture** (including non-electrified), and allows for rapid comparisons between **diverse architectures *and* their operations**. E-PASS is powered by **parametric, physics-based** electric powertrain models. It serves as a **modular multi-disciplinary analysis and optimization** framework for **novel aircraft conceptual design**. Since 2018, the E-PASS software has enabled multiple research projects funded by the government and industry, including NASA, AFRL, and Boeing.
