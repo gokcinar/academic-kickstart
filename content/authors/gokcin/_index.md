@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gökçin Çınar
+name: Gökçin Çınar
 
 # Username (this should match the folder name)
 authors:
@@ -85,4 +85,3 @@ Dr. Cinar holds Ph.D. and MSc. degrees in aerospace engineering from Georgia Tec
 Dr. Cinar is a member of the American Institute of Aeronautics and Astronautics (AIAA). She is currently serving as the Publications and Policy Chair of AIAA's Electrified Aircraft Technology Technical Committee. For the past 3 years she has been a member of the Organizing Committee for the AIAA/IEEE Electric Aircraft Technologies Symposium (EATS). She is the Publication Co-Chair of [2022 IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS)](https://itec-conf.com/).
 
 Dr. Cinar is also passionate about science communication. Since 2016, she has been involved in outreach activities to promote STEM and gender equality in STEM. As part of this outreach, she owns a [YouTube channel](https://www.youtube.com/BizsizOnlar) (only in Turkish) and gives invited talks and seminars at high schools, universities, and local and social media platforms.
-
