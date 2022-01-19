@@ -50,7 +50,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Graduate Students
 ---
 
 I am looking for highly qualified and motivated PhD students with strong academic backgrounds for exciting, funded research opportunities beginning August 2022. [Click here](https://drive.google.com/file/d/1c5ow0G1QrrQWgerPh7FhI8nkspyOXxTZ/view) to learn more about the position and application criteria.
