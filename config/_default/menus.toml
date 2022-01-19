@@ -44,10 +44,10 @@
 #     url = "files/cv.pdf"
 #     weight = 30
 
-[[main]]
-  name = "Türkçe"
-  url = "turkce/"
-  weight = 80
+#[[main]]
+#  name = "Türkçe"
+#  url = "turkce/"
+#  weight = 80
   
 #[[main]]
 #  name = "Basında Ben"
