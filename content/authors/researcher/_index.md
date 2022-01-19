@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Future Ph.D. students - coming soon!
+title: Future Ph.D. students - coming soon!
 
 # Username (this should match the folder name)
 authors:
@@ -54,3 +54,4 @@ user_groups:
 ---
 
 I am looking for highly qualified and motivated PhD students with strong academic backgrounds for exciting, funded research opportunities beginning August 2022. [Click here](https://drive.google.com/file/d/1c5ow0G1QrrQWgerPh7FhI8nkspyOXxTZ/view) to learn more about the position and application criteria.
+
