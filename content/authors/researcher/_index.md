@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Gokcin Cinar
+name: Future Ph.D. students - coming soon!
 
 # Username (this should match the folder name)
 authors:
-- gokcin
+- researcher
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Assistant Professor of Aerospace Engineering
+role: Graduate Student Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,8 @@ organizations:
   url: "https://www.umich.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main research interests include aerospace systems design, integration, and optimization with a special focus on electrified aircraft and sustainable aviation concepts.
+bio: I am looking for highly qualified and motivated PhD students with strong academic backgrounds for exciting, funded research opportunities beginning August 2022. [Click here](https://drive.google.com/file/d/1c5ow0G1QrrQWgerPh7FhI8nkspyOXxTZ/view) to learn more about the position and application criteria.
+
 
 interests:
 - Aerospace systems design, integration, optimization
