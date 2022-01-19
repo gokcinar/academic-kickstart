@@ -74,6 +74,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Principal Investigator
+- Researchers
 ---
 
 Gökçin Çınar (pronounced as gok-chin chin-r) is an **assistant professor of aerospace engineering** at the **University of Michigan**. She is the **Principal Investigator of Integrated Design of Environmentally-friendly Aerospace Systems (IDEAS) Lab**. Her research interests include **aerospace systems design, integration, and optimization** with a special focus on e**lectrified aircraft concepts and sustainable aviation**. In her research, she utilizes **model-based engineering** along with **probabilistic and statistical methods** to analyze, understand and design the **complex system behavior** of an aerospace vehicle. 
