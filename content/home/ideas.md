@@ -16,7 +16,6 @@ design:
 columns: '1'
 # view: 5  # For older versions prior to v5.5, use the numeric IDs above
 # flip_alt_rows: true # Flip alternate rows when in Showcase view?
-
 ---
 **I**ntegrated **D**esign of **E**nvironmentally-friendly **A**erospace **S**ystems<br>
 
@@ -37,5 +36,4 @@ Developed by Dr. Cinar, E-PASS is an energy-based aircraft sizing and synthesis 
 
 ### Design Space Exploration and Optimization
 Traditionally, important design decisions are made and locked in at early design stages where knowledge about the design is limited and the methods rely on historical data. This results in a point design that can only be locally optimized for a predetermined set of requirements. At IDEAS Lab, we leverage **probabilistic design methods** to predict the effects of **random variability** and **mitigate uncertainties** associated with novel concepts. We strategically and efficiently **sample and perturb the design space of a complex system** to predict the system response including the **random variability effects**. We utilize statistical methods to build **computationally faster reduced order models**. This approach enables the creation of a **fast, dynamic, and interactive design space exploration and optimization environment**. This way we can perform the simulation and evaluation of *thousands* of sized designs, optimized under varying requirements - all of this *at the click of a button*! This environment can be used to perform **"what-if" analysis, visualize the sensitivities** of design factors to the system-level responses, make **informed decisions** about the design, and more.
-
 
