@@ -2,7 +2,8 @@
 widget: blank
 headless: true
 
-# Activate this widget? true/false
+# Activate this widget? true/false 
+# 
 active: true
 
 # ... Put Your Section Options Here (title etc.) ...
@@ -24,7 +25,8 @@ Research at IDEAS Lab aims to bring a **holistic approach** that accounts for th
 - Surrogate modeling and machine learning
 - Model-based systems engineering
 
-{{< figure src="./home/IDEAS-Lab.png" caption="Research at IDEAS" align="center" >}}
+{{< figure src="img/home/IDEAS-Lab.png" caption="Research at IDEAS" align="center" >}}
+![Research at IDEAS](img/home/IDEAS-Lab.png)
 
 ### Electrified Propulsion Architecture Sizing and Synthesis: E-PASS
 Developed by Dr. Cinar, E-PASS is an energy-based aircraft sizing and synthesis tool in MATLAB. **E-PASS enables conceptual design and performance evaluation of advanced aircraft concepts with *any* type of propulsion architecture** (including non-electrified), and allows for rapid comparisons between **diverse architectures *and* their operations**. E-PASS is powered by **parametric, physics-based** electric powertrain models. It serves as a **modular multi-disciplinary analysis and optimization** framework for **novel aircraft conceptual design**. Since 2018, the E-PASS software has enabled multiple research projects funded by the government and industry, including NASA, AFRL, and Boeing.
