@@ -23,4 +23,5 @@ Research at IDEAS Lab aims to bring a **holistic approach** that accounts for th
 - Statistical and probabilistic design methods
 - Surrogate modeling and machine learning
 - Model-based systems engineering
-![Research at IDEAS](static/img/IDEAS-Lab.png)
+- 
+![Research at IDEAS](IDEAS-Lab.png)
