@@ -14,10 +14,10 @@
   weight = 20
 
 
-[[main]]
-  name = "Team"
-  url = "team/"
-  weight = 25
+#[[main]]
+#  name = "Team"
+#  url = "team/"
+#  weight = 25
 
 
 [[main]]
