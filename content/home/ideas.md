@@ -2,9 +2,12 @@
 widget: blank
 headless: true
 
+# Activate this widget? true/false
+active: true
+
 # ... Put Your Section Options Here (title etc.) ...
 title: IDEAS LAB
-subtitle: **I**ntegrated **D**esign of **E**nvironmentally-friendly **A**erospace **S**ystems
+subtitle: Integrated Design of Environmentally-friendly Aerospace Systems
 weight: 25  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
